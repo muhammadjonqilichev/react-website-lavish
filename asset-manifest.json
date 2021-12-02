@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/muhammadjonqilichev/react-website-lavish/static/css/main.797d6269.chunk.css",
+    "main.js": "/muhammadjonqilichev/react-website-lavish/static/js/main.77b9be85.chunk.js",
+    "main.js.map": "/muhammadjonqilichev/react-website-lavish/static/js/main.77b9be85.chunk.js.map",
+    "runtime-main.js": "/muhammadjonqilichev/react-website-lavish/static/js/runtime-main.c2363dc9.js",
+    "runtime-main.js.map": "/muhammadjonqilichev/react-website-lavish/static/js/runtime-main.c2363dc9.js.map",
+    "static/js/2.b7aa5d0e.chunk.js": "/muhammadjonqilichev/react-website-lavish/static/js/2.b7aa5d0e.chunk.js",
+    "static/js/2.b7aa5d0e.chunk.js.map": "/muhammadjonqilichev/react-website-lavish/static/js/2.b7aa5d0e.chunk.js.map",
+    "index.html": "/muhammadjonqilichev/react-website-lavish/index.html",
+    "static/css/main.797d6269.chunk.css.map": "/muhammadjonqilichev/react-website-lavish/static/css/main.797d6269.chunk.css.map",
+    "static/js/2.b7aa5d0e.chunk.js.LICENSE.txt": "/muhammadjonqilichev/react-website-lavish/static/js/2.b7aa5d0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2363dc9.js",
+    "static/js/2.b7aa5d0e.chunk.js",
+    "static/css/main.797d6269.chunk.css",
+    "static/js/main.77b9be85.chunk.js"
+  ]
+}
